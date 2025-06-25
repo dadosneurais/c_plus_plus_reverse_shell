@@ -1,4 +1,4 @@
-create the dll: 
+create the dll: \n
   g++ -shared -o main.dll main.cpp -lws2_32
 
 excetute the dll on cmd directly: 
