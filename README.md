@@ -11,4 +11,6 @@ Convert ico (loader.rc) to loader.res:
 Convert the program (loader.cpp) to loader.exe:  
 `g++ loaderr.cpp loaderr.res -o loaderr.exe -mwindows`
 
+The video making of: https://www.youtube.com/watch?v=gEU9hPCHp14&t=1032s
+
 That's all folks! =)
